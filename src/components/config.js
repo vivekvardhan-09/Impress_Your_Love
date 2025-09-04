@@ -17,9 +17,9 @@ const config = {
   searchPlaceholder: "Search Google or type a URL", // Placeholder text in the search input
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
-    "Why do i smile every time i see her?", // Example trending search query
-    "Why does she make me believe in love?", // Another example query
-    `yukinngfdsakmhgkmbhhnjjiijnllnbbjj,jjjjmm`, // A personalized trending search
+    "Why do i smile every time i see her message?", // Example trending search query
+    "Why do i never get tired of loving her?❤️😍✨", // Another example query
+    `why do i see my future inn her eyes👀?`, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 

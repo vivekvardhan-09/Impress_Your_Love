@@ -48,50 +48,50 @@ const config = {
   musicTitle: "Songs that remind me of you", // Title for the music page
   musicGallery: [
     {
-      title: "Heavenly", // Title of the song
-      artist: "Cigarettes After Sex", // Artist of the song
+      title: "Raanjhanaa", // Title of the song
+      artist: "Shiraz Uppal and Jawinder Singh", // Artist of the song
       left: "5%", // Positioning on the page
       top: "5%", // Positioning on the page
     },
     {
-      title: "The Boy Is Mine",
-      artist: "Brandy, Monica",
+      title: "Nee partha vizhigal",
+      artist: "vijay Yesudas",
       left: "40%",
       top: "15%",
     },
     {
-      title: "Die With A Smile",
-      artist: "Lady Gaga, Bruno Mars",
+      title: "chiru Chiru",
+      artist: " Haricharan and Tanvi Shah",
       left: "15%",
       top: "40%",
     },
     {
-      title: "Last Night on Earth",
-      artist: "Green Day",
+      title: "Raatan Lambiyan",
+      artist: "Jubin Nautiyal and Asees Kaur",
       left: "30%",
       top: "75%",
     },
     {
-      title: "American Boy",
-      artist: "Estelle, Kanye West",
+      title: "Mast Magan",
+      artist: "Arijit Singh and Chinmayi Sripada",
       left: "5%",
       top: "65%",
     },
     {
-      title: "Sparks",
-      artist: "Coldplay",
+      title: "Adhento Gaani Vunnapaatuga ",
+      artist: "Anirudh Ravichander",
       left: "25%",
       top: "90%",
     },
     {
-      title: "Kiss Me Thru The Phone",
-      artist: "Soulja Boy, Sammie",
+      title: "I Wanna Be Yours",
+      artist: "Arctic Monkeys",
       left: "35%",
       top: "50%",
     },
     {
-      title: "Sunsetz",
-      artist: "Cigarettes After Sex",
+      title: "Manasaa",
+      artist: "A.R.Rahman",
       left: "10%",
       top: "25%",
     },

@@ -100,17 +100,17 @@ const config = {
     // 📝 Message Recap Page
     messageTitle: "Best Pics!!", // Title for the messages recap page
     messageGallery: [
-      { title: "September 3, 2024", description: "A beautiful day to remember." }, // Message entry
-      { title: "October 5, 2024", description: " #moment" },
-      { title: "December 25, 2024", description: "#love ❤️" },
+      { title: "August 28, 2025", description: "A beautiful day to remember." }, // Message entry
+      { title: "August 23, 2025", description: " #moment" },
+      { title: "August 25, 2025", description: "#love ❤️" },
     ],
   
     // 📸 Picture Recap Page
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "January 1, 2024", description: "New Year's Celebration 🎉" }, // Picture entry
-      { title: "February 14, 2024", description: "Valentine's Day 💕" },
-      { title: "March 10, 2024", description: "Beach trip memories 🏖️" },
+      { title: "July 4, 2025", description: "New Year's Celebration 🎉" }, // Picture entry
+      { title: "May 24, 2025", description: "Valentine's Day 💕" },
+      { title: "July 29, 2025", description: "Beach trip memories 🏖️" },
     ],
   
 

@@ -108,9 +108,9 @@ const config = {
     // 📸 Picture Recap Page
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "July 4, 2025", description: "New Year's Celebration 🎉" }, // Picture entry
-      { title: "May 24, 2025", description: "Valentine's Day 💕" },
-      { title: "July 29, 2025", description: "Beach trip memories 🏖️" },
+      { title: "July 4, 2025", description: "Every second with you is precious" }, // Picture entry
+      { title: "May 24, 2025", description: " An hour together,forever in my heart💕" },
+      { title: "July 29, 2025", description: "Short in time,infinite in love💎" },
     ],
   
 
